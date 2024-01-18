@@ -31,3 +31,7 @@ Then select your configuration
   Container example 
   Custom domain example 
 ```
+
+## Invoke with LLM
+Here is an example shows invocation with LLM
+https://matdata.cloud/MLADS/frontend
